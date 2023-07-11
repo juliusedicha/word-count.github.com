@@ -1,0 +1,37 @@
+.counts p {
+  margin: 0;
+}
+
+.character-count {
+  border: 1px solid #ccc;
+  background-color: darkgray;
+}
+
+.word-count {
+  border: 1px solid #ccc;
+  background-color: darkgray;
+}
+
+.clear-button {
+  background-color: #ff4136;
+  border-radius: 5px;
+}
+
+.clear-button:hover {
+  background-color: #4338ca;
+}
+
+.clear-button:active {
+  background-color: #c62833;
+}
+.paraphrase-button {
+  background-color: #c62833;
+}
+
+.paraphrase-button:hover {
+  background-color: #4338ca;
+}
+
+
+
+

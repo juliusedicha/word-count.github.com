@@ -1,0 +1,33 @@
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar li {
+  display: inline;
+  margin-right: 10px;
+}
+
+
+/* CSS for the navigation bar */
+.navbar {
+  background-color: wheat; /* Set the background color */
+  overflow: hidden; /* Prevents content from overflowing */
+}
+
+/* Style for the navigation bar links */
+.navbar a {
+  float: left; /* Float the links to the left */
+  color: white; /* Set the text color */
+  text-align: center; /* Center the text within the links */
+  padding: 14px 16px; /* Add padding around the links */
+  text-decoration: none; /* Remove the default underline */
+}
+
+/* Change the color of the links on hover */
+.navbar a:hover {
+  background-color: brown; /* Set the background color on hover */
+  color: white; /* Change the text color on hover */
+}
+
